@@ -1,0 +1,18 @@
+{
+  "name": "event-driven-food-order",
+  "version": "1.0.0",
+  "description": "A Node.js event-driven food ordering system demonstrating EventEmitter, asynchronous lifecycle chaining, and error handling.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "eventemitter",
+    "events",
+    "event-driven-architecture",
+    "fsd-assignment"
+  ],
+  "author": "Saksham Verma",
+  "license": "ISC"
+}
